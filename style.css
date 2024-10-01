@@ -1,0 +1,17 @@
+
+*{
+    font-family: "Work Sans", sans-serif;
+}
+
+.firstSection img {
+
+    height: 48px;
+    filter: brightness(0) invert(1)
+
+}
+
+.respoImg img{
+
+    height: 48px;
+    filter: brightness(0) invert(1)
+}
